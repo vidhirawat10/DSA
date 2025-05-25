@@ -57,7 +57,7 @@ DSA-Java/
 
 ---
 ## Clone the repository
-git clone https://github.com/your-username/DSA-Java.git
+git clone https://github.com/vidhirawat10/DSA
 cd DSA-Java
 
 # Open in your favorite IDE (e.g., IntelliJ, VSCode, Eclipse)
