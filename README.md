@@ -55,25 +55,8 @@ DSA-Java/
 ├── README.md
 └── ...
 
-
 ---
-
-## ✨ Sample Code Snippet
-
-```java
-// Merge Sort - Java
-public class MergeSort {
-    public void mergeSort(int[] arr, int left, int right) {
-        if (left < right) {
-            int mid = (left + right)/2;
-            mergeSort(arr, left, mid);
-            mergeSort(arr, mid + 1, right);
-            merge(arr, left, mid, right);
-        }
-    }
-}
----
-# Clone the repository
+## Clone the repository
 git clone https://github.com/your-username/DSA-Java.git
 cd DSA-Java
 
