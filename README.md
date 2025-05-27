@@ -40,19 +40,33 @@ Whether you're preparing for coding interviews or brushing up on fundamentals, t
 ## 📁 Folder Structure
 
 DSA-Java/
+<br>
 ├── Arrays/
+<br>
 │ └── TwoSum.java
+<br>
 ├── Strings/
+<br>
 │ └── ReverseWords.java
+<br>
 ├── LinkedList/
+<br>
 │ └── MergeTwoSortedLists.java
+<br>
 ├── Trees/
+<br>
 │ └── InorderTraversal.java
+<br>
 ├── DynamicProgramming/
+<br>
 │ └── LongestIncreasingSubsequence.java
+<br>
 ├── Sorting/
+<br>
 │ └── MergeSort.java
+<br>
 ├── README.md
+<br>
 └── ...
 
 ---
